@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../log-contrast"
+		},
+		{
+			"path": "../lc-penalized-regression"
+		}
+	],
+	"settings": {}
+}
